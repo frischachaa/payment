@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 $this->load->view("v_header");
 $this->load->view("header_tags");
 
@@ -117,3 +118,7 @@ $this->load->view("header_tags");
 		}
 	</script>
 </body>
+=======
+	$this->load->view("v_header");
+?>
+>>>>>>> 4fa93c9a4169e7f9a815fe6b36ec74d4dbcab416
